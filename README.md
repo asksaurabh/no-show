@@ -15,3 +15,5 @@ With this I have enough knowledge to work and collaborate with professionals aro
 the world and use the learnings to make something valuable.
 
 Follow  me on [LinkedIn](https://www.linkedin.com/in/saurabh-kumar-aa89001ab).
+
+Link for the official [*GIT documentation*](https://git-scm.com/doc).
